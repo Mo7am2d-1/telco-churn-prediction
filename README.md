@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-A practice project from my machine learning course. It predicts whether a
+Practice project built with AI assistance on a public dataset. It predicts whether a
 telecom customer will churn (leave) from their account and billing
 attributes, and includes a Streamlit web app for interactive predictions.
 
